@@ -1,6 +1,6 @@
 # About
 
-<img src="./media/what-is-fomo.png" alt="What is FOMO" width="300" />
+<img src="./media/what-is-fomo.png" alt="What is FOMO" height="500" width="300" />
 
 **Faster Objects, More Objects (FOMO)** is an object detection technique that uses centroids instead of bounding boxes. It does this by outputting a heatmap and interpreting it in such a way where you could extract a centroid. 
 
@@ -29,7 +29,7 @@ For context, the broader capstone project involved:
   - [ ] `class_mapping.py`
   - [ ] `coco_loader.py` (In progress)
   - [ ] `dataset.py`
-  - [/] `transforms.py`
+  - [x] `transforms.py`
 - [ ] **`models/`**
   - [ ] `__init__.py`
   - [ ] `backbone.py`
@@ -52,9 +52,9 @@ For context, the broader capstone project involved:
 ### 📸 Samples
 **Model Output Previews:**
 <p align="center">
-  <img src="./media/sample_1.png" alt="FOMO Output Sample 1" width="32%" />
-  <img src="./media/sample_2.png" alt="FOMO Output Sample 2" width="32%" />
-  <img src="./media/sample_3.png" alt="FOMO Output Sample 3" width="32%" />
+  <img src="./media/sample_1.png" alt="FOMO Output Sample 1" width="50%" />
+  <img src="./media/sample_2.png" alt="FOMO Output Sample 2" width="50%" />
+  <img src="./media/sample_3.png" alt="FOMO Output Sample 3" width="50%" />
 </p>
 
 ### 🚦 Traffic Flow & Estimation
