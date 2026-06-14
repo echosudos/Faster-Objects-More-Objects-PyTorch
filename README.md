@@ -26,8 +26,8 @@ For context, the broader capstone project involved:
   - [ ] `requirements.txt`
 - [ ] **`data/`**
   - [ ] `__init__.py`
-  - [ ] `class_mapping.py`
-  - [ ] `coco_loader.py` (In progress)
+  - [ ] `class_mapping.py` (In progress)
+  - [x] `coco_loader.py` 
   - [ ] `dataset.py`
   - [x] `transforms.py`
 - [ ] **`models/`**
